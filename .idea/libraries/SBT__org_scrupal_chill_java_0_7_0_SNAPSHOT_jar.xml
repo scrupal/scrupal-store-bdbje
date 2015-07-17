@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.scrupal:chill-java:0.7.0-SNAPSHOT:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scrupal/chill-java/jars/chill-java-0.7.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scrupal/chill-java/docs/chill-java-0.7.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scrupal/chill-java/srcs/chill-java-0.7.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
