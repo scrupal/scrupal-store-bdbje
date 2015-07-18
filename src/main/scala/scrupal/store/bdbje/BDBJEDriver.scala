@@ -2,7 +2,6 @@ package scrupal.store.bdbje
 
 import java.io.File
 import java.net.URI
-import java.time.Instant
 import java.util.concurrent.TimeUnit
 
 import com.sleepycat.je._
